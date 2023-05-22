@@ -1,6 +1,6 @@
 # Zadania
 
-https://github.com/lukaszberka/zadania
+https://lukaszberka.github.io/zadania/
 
 ## Opis
 
